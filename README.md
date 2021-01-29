@@ -7,6 +7,7 @@ Extra stuff added to vanilla dmenu:
 - can view color characters like emoji (libxft-bgra is required for this reason)
 - `-P` for password mode: hide user input
 - `-r` to reject non-matching input
+- -F for fuzzy matching
 - dmenu options are mouse clickable
 
 ## Installation
