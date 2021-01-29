@@ -11,6 +11,12 @@ Extra stuff added to vanilla dmenu:
 
 ## Installation
 
+```
+git clone https://github.com/mgauz01/dmenu.git
+cd dmenu
+sudo make clean install
+```
+
 You must have `libxft-bgra` installed until the libxft upstream is fixed.
 
 After making any config changes that you want, but `make`, `sudo make install` it.
