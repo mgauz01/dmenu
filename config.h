@@ -31,10 +31,13 @@ static const unsigned int alphas[SchemeLast][2] = {
 
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
 static unsigned int lines      = 0;
+<<<<<<< HEAD
 /* -h option; minimum height of a menu line */
 static unsigned int lineheight = 29;
 static unsigned int min_lineheight = 12;
 
+=======
+>>>>>>> parent of 2a9c80c... so far the numbers case sensetive and height patch have been implemented
 
 /*
  * Characters not considered part of a word while deleting words
